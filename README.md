@@ -9,3 +9,5 @@
   - Website: [nayveetech.co.za](https://www.nayveetech.co.za)
 - 😄 Pronouns: **Visionary, Innovative, Driven**
 - ⚡ Fun fact: I enjoy writing JavaScript functions, learning new technologies, and watching football.
+
+![Nayvee_logo_redtxt](https://github.com/user-attachments/assets/ccd2b231-0ce6-4871-98ab-7cac4506aea9)
