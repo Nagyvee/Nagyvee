@@ -44,10 +44,9 @@ Welcome to my GitHub! I’m passionate about **Web Development** and always eage
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nagyvee&layout=compact&theme=radical" />
   </a>
 
-  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nagyvee&show_icons=true&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=Nagyvee&theme=radical)](https://git.io/streak-stats)
 
 [![Nagyvee's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Nagyvee&theme=github)](https://github.com/Nagyvee)
-
 
   <br>
   <br>
