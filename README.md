@@ -38,18 +38,19 @@ Welcome to my GitHub! I’m passionate about **Web Development** and always eage
 
 ---
 
-<div align="center" style="margin-top: 30px;">
+<div align="center" style="margin-top: 30px; display: flex; flex-direction: column; align-items: center;">
+
+  <div style="display: flex; flex-direction: column; align-items: center;">
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nagyvee&layout=compact&theme=radical" />
+    </a>
+    <a href="https://git.io/streak-stats">
+      <img src="https://streak-stats.demolab.com/?user=Nagyvee&theme=radical" alt="GitHub Streak" />
+    </a>
+  </div>
   
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nagyvee&layout=compact&theme=radical" />
-  </a>
-
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=Nagyvee&theme=radical)](https://git.io/streak-stats)
-
-[![Nagyvee's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Nagyvee&theme=github)](https://github.com/Nagyvee)
-
   <br>
-  <br>
+
   <a href="https://www.nayveetech.co.za">
     <img src="https://github.com/user-attachments/assets/ccd2b231-0ce6-4871-98ab-7cac4506aea9" alt="Nayvee Tech Logo" width="300" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
   </a>
