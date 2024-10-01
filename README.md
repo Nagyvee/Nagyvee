@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @Nagyvee
+# 👋 Hi, I’m Nigel Virimai Mafuta ( @Nagyvee)
 
 - 👀 I’m interested in **Web Development**.
 - 💻 I have experience with **HTML**, **CSS**, **JavaScript**, **OOP**, **React**, **APIs**, **Node.js**, **Express**, **MySQL**, and **MongoDB**.
