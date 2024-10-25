@@ -9,7 +9,7 @@ Welcome to my GitHub! I’m passionate about **Web Development** and always eage
 - **🔭 Interests:** Web Development, Problem Solving, and Building Scalable Applications.
 - **💻 Experience:** 
   - **Languages & Tools:** 
-    - **HTML**, **CSS**, **JavaScript**, **OOP**
+    - **HTML**, **CSS**, **JavaScript**, **Python**, **OOP**
     - **React**, **Node.js**, **Express**, **APIs**
     - **MySQL**, **MongoDB**
 - **🌱 Currently Learning:**
