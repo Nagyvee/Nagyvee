@@ -9,11 +9,11 @@ Welcome to my GitHub! I’m passionate about **Web Development** and always eage
 - **🔭 Interests:** Web Development, Problem Solving, and Building Scalable Applications.
 - **💻 Experience:** 
   - **Languages & Tools:** 
-    - **HTML**, **CSS**, **JavaScript**, **Python**, **OOP**
-    - **React**, **Node.js**, **Express**, **APIs**
+    - **HTML**, **CSS**, **SCSS**, **Tailwind CSS**, **JavaScript**, **TypeScript**, **Python**, **OOP**
+    - **React**, **Nextjs**, , **Node.js**, **Express**, **APIs**
     - **MySQL**, **MongoDB**
 - **🌱 Currently Learning:**
-  - **React Native** and **Tailwind CSS** to enhance mobile development and responsive design skills.
+  - **React Native** and **Data Science** to enhance mobile development and explore the world of data.
 
 ---
 
