@@ -10,7 +10,7 @@ Welcome to my GitHub! I’m passionate about **Web Development** and always eage
 - **💻 Experience:** 
   - **Languages & Tools:** 
     - **HTML**, **CSS**, **SCSS**, **Tailwind CSS**, **JavaScript**, **TypeScript**, **Python**, **OOP**
-    - **React**, **Nextjs**, , **Node.js**, **Express**, **APIs**
+    - **React**, **Nextjs** , **Node.js**, **Express**, **APIs**
     - **MySQL**, **MongoDB**
 - **🌱 Currently Learning:**
   - **React Native** and **Data Science** to enhance mobile development and explore the world of data.
@@ -25,7 +25,7 @@ Welcome to my GitHub! I’m passionate about **Web Development** and always eage
 
 ## 📫 Contact Me
 
-- **Email:** nigelvirimai@gmail.com | nayvee@techie.com
+- **Email:** nigel@nayveetech.com | nigelvirimai@gmail.com | nayvee@techie.com
 - **Website:** [nayveetech.co.za](https://www.nayveetech.co.za)
 
 ---
